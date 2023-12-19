@@ -1,0 +1,9 @@
+﻿  AVS-IDZ-4.cpp
+C:\Programming\AVS-IDZ-4\AVS-IDZ-4\AVS-IDZ-4.cpp(154,100): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Programming\AVS-IDZ-4\AVS-IDZ-4\AVS-IDZ-4.cpp(154,100): warning C4267:         with
+C:\Programming\AVS-IDZ-4\AVS-IDZ-4\AVS-IDZ-4.cpp(154,100): warning C4267:         [
+C:\Programming\AVS-IDZ-4\AVS-IDZ-4\AVS-IDZ-4.cpp(154,100): warning C4267:             _Ty=unsigned int
+C:\Programming\AVS-IDZ-4\AVS-IDZ-4\AVS-IDZ-4.cpp(154,100): warning C4267:         ]
+  AVS-IDZ-4.vcxproj -> C:\Programming\AVS-IDZ-4\x64\Debug\AVS-IDZ-4.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
